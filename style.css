@@ -39,6 +39,10 @@
   color: rgb(245, 199, 115);
 }
 
+#about {
+  font-size: 20px;
+}
+
 .hire {
   border-radius: 10px;
   background-color: rgb(234, 238, 214);
@@ -97,4 +101,19 @@ section {
 
 a {
   text-decoration: none;
+}
+
+@media screen and (max-width: 914px) {
+  .carousel-item {
+    padding-bottom: 145px;
+  }
+
+  .carousel-caption {
+    font-size: 15px;
+  }
+
+  footer {
+    background: #747373;
+    padding: 20px;
+  }
 }

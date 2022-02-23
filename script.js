@@ -1,8 +1,8 @@
 var typed = new Typed(".typing", {
   strings: [
     "UI/UX Design",
-    "Automotive",
-    "3D Animation",
+    "Otomotif",
+    "Animasi 3D",
     "Video Editing",
     "Web Programming",
   ],
