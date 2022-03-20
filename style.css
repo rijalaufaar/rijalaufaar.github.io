@@ -203,3 +203,9 @@ a {
 #footer .credits {
   font-size: 13px;
 }
+
+#caption .p {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
